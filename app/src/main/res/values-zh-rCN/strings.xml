@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFirstKotlinApp</string>
+    <string name="home_banner">随机计数</string>
+    <string name="counter_max">最大值</string>
+    <string name="counter_min">最小值</string>
+</resources>
